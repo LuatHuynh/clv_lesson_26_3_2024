@@ -4,7 +4,7 @@ import MainContent from "./components/MainContent";
 import NavigationBar from "./components/NavigationBar";
 
 function App() {
-  const { token } = theme.useToken();
+  const { token } = theme.useToken(); //H2
   return (
     //h1
     <Layout>
