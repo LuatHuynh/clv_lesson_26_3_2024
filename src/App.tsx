@@ -13,7 +13,7 @@ function App() {
           backgroundColor: token.colorBgContainer,
           paddingTop: 32,
           marginTop: 70,
-          zIndex: 10,
+          zIndex: 50,
         }}
       >
         <MainContent />
